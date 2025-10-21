@@ -1,2 +1,3 @@
-# latihan-commit-1
-Saya coba untuk pertama kali dulu
+# Latihan Commit
+Ini adalah commit pertama saya di GitHub 🚀
+
